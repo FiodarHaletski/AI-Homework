@@ -62,7 +62,7 @@ Use [SQLite Online](https://sqliteonline.com) to run the script and execute quer
 ├── expense_calculator.html
 ├── api_testing_script.js
 ├── sales_analysis.sql
-└── README.md
+
 ```
 
 ---
